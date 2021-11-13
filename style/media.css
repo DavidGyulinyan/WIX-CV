@@ -41,6 +41,20 @@
     align-items: center;
   }
 
+  hr {
+    width: 500px;
+    margin-top: 20px;
+    margin: auto;
+  }
+
+  .footerInfo {
+    margin-bottom: 50px;
+  }
+
+  .by {
+    margin-top: 30px;
+  }
+
   /* content section */
 .content {
     display: flex;
@@ -83,10 +97,6 @@
     grid-template-columns: 1.9fr 1fr 1fr;
   }
 
-  .header-sec-dws {
-    border:1px solid black;
-  }
-
   .menu {
     display: none;
   }
@@ -117,6 +127,12 @@
   .footer {
     margin-top: 200px;
    }
+
+   hr {
+    width: 700px;
+    margin-top: 20px;
+    margin: auto;
+  }
 
    /* content section */
 
